@@ -72,6 +72,7 @@ trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-1
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls&sni=194.124.216.192#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-4681
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-4682
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru#%F0%9F%87%A7%F0%9F%87%ACBG-78.159.131.12-0789
+trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-6709
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-8803
 trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.111.157.147-5304
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.230.196-0543
