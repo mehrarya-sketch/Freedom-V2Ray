@@ -1,6 +1,5 @@
 vless://03790554-d3b7-44b4-af31-fde276f52e96@snapp.ir:2082?path=/&security=none&encryption=none&host=cnd3.masterteam.shop&type=ws#🇮🇷 IR | 185.143.234.122
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?security=reality&encryption=none&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net&sid=9891d7#🇩🇪 DE | 212.100.171.194
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.249.118:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.249.118
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.177.190:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.177.190
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
 vless://083c7724-d08f-4e0d-9712-3208abcf04d0@185.143.233.202:443?path=/ed=2080&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=1&sni=cyrus.frtshop.ir#🇮🇷 IR | 185.143.233.202
@@ -71,8 +70,6 @@ vless://4e735fe4-8f1a-48c6-ad74-105d27bcac47@188.119.149.107:8080?mode=stream-up
 vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&encryption=none&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&headerType=none&type=tcp&sni=yahoo.com&sid=52a6#🇳🇱 NL | 147.45.145.127
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#🇺🇸 US | 192.200.160.14
 vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.138.148
-vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#🇫🇷 FR | 152.89.253.239
-vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#🏴‍☠️ UN | 152.89.253.239
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 FR | 79.127.196.11
 vless://57f56a3c-0e10-4fb2-ad70-3db23a572b0f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.Shahin.vegaskala.com.fdf.vegaskala.com.vegafod.com.&path=/&security=none#🇨🇦 CA | 172.66.156.81
 vless://5c85fce0-cbb9-45b0-8bdc-c30b2f55315c@62.113.36.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cool.fasssst.online&fp=chrome&pbk=rRGxdvq2Jr4fi2H0mHp9Jal_S5TsM2aj53R1IPtbuXU&sid=278cb8c01b2dca&spx=/&type=tcp&headerType=none#🇷🇺 RU | 62.113.36.13
