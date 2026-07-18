@@ -55,6 +55,7 @@ vless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&se
 vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#🇨🇦 CA | 172.64.149.54
 vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?path=/&security=none&encryption=none&host=non.zabuzabfr.ir&type=httpupgrade#🇮🇷 IR | 85.198.13.64
 vless://756702ad-3df1-fe31-176b-325500000000@ez-733129.nova-b6ad66.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=1&host=ez-733129.nova-b6ad66.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=ez-733129.nova-b6ad66.workers.dev#🇨🇦 CA | 172.67.181.234
+vless://784974f6-6289-4988-a51d-7d54f9e6915c@31.77.149.177:18682?mode=auto&path=/&security=reality&encryption=none&extra=&pbk=OqEscRLjKXGwlfh21MzuR035RB3eiCuR3vZ3mHVGEnU&fp=chrome&spx=/DnQeaBQsKCznZYG&type=xhttp&sni=www.yahoo.com&sid=a94c4a#🇫🇷 FR | 31.77.149.177
 vless://79488065-afcf-4d33-9d5e-b24d68674857@ser.coolfrog-bot.ir:8080?path=/steam&security=none&encryption=none&host=ser.coolfrog-bot.ir&type=ws#🇨🇦 CA | 104.21.12.183
 vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://7d12caa2-43e0-45d2-8636-08b342615c7b@104.17.72.206:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=clod.pedramhost.shop#🇨🇦 CA | 104.17.72.206
@@ -93,6 +94,7 @@ vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&e
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#🇨🇦 CA | 104.17.147.22
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#🇨🇦 CA | 104.17.147.22
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.211.253
+vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&type=tcp&sni=telewebion.ir&sid=b6eae5ce#🇳🇱 NL | 64.188.126.226
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#🇫🇷 FR | 151.80.147.30
 vless://a18a297f-eb74-4c17-b69a-ae2b13ab3544@ser.coolfrog-bot.ir:8080?path=/steam&security=none&encryption=none&host=ser.coolfrog-bot.ir&type=ws#🇨🇦 CA | 172.67.132.55
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b#🇨🇦 CA | 172.65.183.98

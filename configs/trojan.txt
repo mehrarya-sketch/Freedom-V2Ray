@@ -182,7 +182,6 @@ trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-wer
 trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?security=tls&sni=wealthy-gobbler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.189.201-0122
 trojan://CF68213490@welcome-monitor.rooster465.autos:443?security=tls&sni=welcome-monitor.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.68.237.45-0117
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-9129
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.180-7671
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-2008
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.201.135-5770
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.114.143-5850
@@ -295,6 +294,7 @@ trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=h
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-3066
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.90.197-5816
+trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.28.167-9009
 trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603/?type=tcp&security=tls&sni=103.106.228.187&allowInsecure=1#🇯🇵 JP | 103.106.228.187
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-5939
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-4858
