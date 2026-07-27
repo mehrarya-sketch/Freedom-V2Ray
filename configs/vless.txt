@@ -62,7 +62,6 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?path=/rsedgws&se
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net#🇺🇸 US | 162.159.38.119
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇺🇸 US | 162.159.38.119
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@one-for-all.levikogjgfdd.ir:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇺🇸 US | 162.159.38.119
-vless://804eeee3-988e-4e64-98ae-7676f91008e6@bot.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 91.107.182.198
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&security=none&type=ws&headerType=&host=square-brook-e650.353-3ac.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇨🇦 CA | 104.16.106.213
