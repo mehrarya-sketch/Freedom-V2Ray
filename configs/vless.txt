@@ -48,6 +48,7 @@ vless://57f56a3c-0e10-4fb2-ad70-3db23a572b0f@172.66.156.81:80?encryption=none&ty
 vless://5910d5d4-d670-4cf2-b875-72bfef693c56@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=random&sni=aa.farxmode.ir&alpn=h2,http/1.1#🇨🇦 CA | 104.17.108.1
 vless://5d94178f-4236-4ab1-8e67-755acb2c1ca0@172.64.152.23:2053?path=/NitroServer&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=nitronetwork.nitromobile.online&fp=chrome&type=ws&allowInsecure=1&sni=nitronetwork1.nitromobile.online#🇨🇦 CA | 172.64.152.23
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#🇳🇱 NL | 5.255.102.104
+vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 62.238.55.96
 vless://6407ef7c-bd83-4212-b467-fb138baeb8e3@snapp.ir:80?path=/&security=none&encryption=none&host=vpi.mgshoponline.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://66ea0b4c-8c39-4e8b-92f0-0a9065218d37@167.82.0.7:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&path=/#🇺🇸 US | 167.82.0.7
 vless://6787a9ff-7e1b-4708-aea2-b5da6a7ec2f3@104.17.89.154:2083?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&fp=chrome&host=rana.bardo-chronos.online&mode=auto&path=/SAFIGH5SS&security=tls&sni=rana.bardo-chronos.online&type=xhttp&x_padding_bytes=100-1000#🇨🇦 CA | 104.17.89.154
@@ -95,7 +96,6 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱 PL | 83.168.71.216
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b#🇨🇦 CA | 172.65.199.181
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 62.238.51.180
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv23.yunus.guru:443?flow=xtls-rprx-vision&fp=firefox&pbk=zT7a-PnmIWP4c-G1EDUT3KZ7URi1kc8EppAWPr3h5lk&security=tls&sid=afeed89ae23b36ed&sni=rezerv23.yunus.guru&type=tcp#🇲🇩 MD | 176.123.2.210
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 CA | 104.16.2.90
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#🇸🇪 SE | 62.60.159.137
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇨🇦 CA | 104.20.6.134
@@ -125,13 +125,6 @@ vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encrypti
 vless://e08122b0-a627-4b29-91df-ea819bf91d71@ipv4-address.iranvatanam.com:2096?security=tls&type=ws&headerType=&path=/?ed=2048&host=email-page3.iranvatanam.com&sni=email-page3.iranvatanam.com&fp=#🇨🇦 CA | 104.16.72.41
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 104.24.196.20
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.19.59
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.19.59
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.19.59
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22224?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 13.36.19.59
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.45.205:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.45.205
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.45.205:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.45.205
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.45.205:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.45.205
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇨🇦 CA | 104.18.37.228
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?mode=gun&security=reality&encryption=none&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&type=grpc&sni=rubr7.cheburnetnastalgia1998.com&sid=fcbda044673fdbd1#🇷🇺 RU | 217.149.30.124
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#🇺🇸 US | 162.159.38.119
