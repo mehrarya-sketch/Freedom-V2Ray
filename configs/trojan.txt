@@ -5,6 +5,7 @@ trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8783
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8785
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-2486
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?security=tls&sni=193.148.19.213#%F0%9F%87%AA%F0%9F%87%B8ES-193.148.19.213-3180
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-6092
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@194.33.45.157:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-194.33.45.157-6101
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.207.189:443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-85.237.207.189-6100
@@ -46,12 +47,14 @@ trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tl
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3901
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-4613
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-8055
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.24-3726
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.25-4066
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.25-3937
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.66.155-4098
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-125.227.152.109-4156
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-4137
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.67.106-3748
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.66.155-4205
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-3942
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.75.128-3862
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.208-3986
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.67.30-3817
@@ -113,8 +116,9 @@ trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9
 trojan://MITIVPN@104.19.229.21:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de2---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#🏴‍☠️ UN | 104.19.229.21
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🏴‍☠️ UN | 104.16.72.41
 trojan://MiTiVPN@104.18.6.178:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl&security=tls&alpn=http/1.1&insecure=1&host=op-mitivpn--MiTiVPN---MiTiVPN-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.Maqror.ir#🏴‍☠️ UN | 104.18.6.178
+trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/gb---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#🏴‍☠️ UN | 151.101.56.7
+trojan://MiTiVPN@172.67.118.45:443?type=ws&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&alpn=http/1.1&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/dde---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#🏴‍☠️ UN | 172.67.118.45
 trojan://MiTiVPN@188.114.96.3:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#🏴‍☠️ UN | 188.114.96.3
-trojan://MiTiVPN@188.114.96.3:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#🏴‍☠️ UN | 188.114.96.3
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🏴‍☠️ UN | 188.114.97.6
 trojan://ND91608427@13.192.168.51:443?security=tls&sni=learning-leopard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.192.168.51-0144
 trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.184-0160
