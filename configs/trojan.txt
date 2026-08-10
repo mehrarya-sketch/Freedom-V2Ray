@@ -208,7 +208,6 @@ trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-wer
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.248-0183
 trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&sni=relaxing-bluebird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.89.29-0136
 trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.239.182-0165
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🏴‍☠️ UN | saving-octopus.rooster465.autos
 trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls&sni=select-ferret.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.59.34-0171
 trojan://ND91608427@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensible-mongrel.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.139.153-0124
 trojan://ND91608427@smart-pup.rooster465.autos:443?security=tls&sni=smart-pup.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.155.134-0123
@@ -284,6 +283,7 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?secu
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0390
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-3336
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8898
+trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8900
 trojan://chrysanthemum@104.20.48.11:443?security=tls&sni=cmee.ezbiz.dynv6.net&type=ws&path=%2F&Host=cmee.ezbiz.dynv6.net#%F0%9F%8F%81RELAY-104.20.48.11-2363
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-18.163.180.201-0223
 trojan://d30ab83dbde4480082048fb315bedebd@5.180.78.22:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.180.78.22-6160
@@ -319,7 +319,6 @@ trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#🏴‍☠️ UN | 188.114.97.7
 trojan://humanity@198.41.223.96:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-198.41.223.96-2141
 trojan://humanity@45.130.125.112:443?security=tls#%F0%9F%8F%81RELAY-45.130.125.112-3197
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴‍☠️ UN | 45.80.111.7
 trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-8.6.112.0-2361
 trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.73.213-2136
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-6665
