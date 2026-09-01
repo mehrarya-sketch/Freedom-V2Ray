@@ -116,6 +116,7 @@ trojan://JT80563429@musical-shrew.rooster465.autos:443?security=tls#%F0%9F%87%AF
 trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.162-5163
 trojan://KV63147582@wondrous-dogfish.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.62-5141
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-78.142.194.96-5044
+trojan://MITIVPN@openai.com:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-S-a&security=tls&alpn=h2,http/1.1&insecure=0&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=0&sni=UsAba-bUbks.App-CloUd.IR#🇨🇦 CA | 172.64.154.211
 trojan://MiTiVPN@104.16.71.213:443?security=tls#%F0%9F%8F%81RELAY-104.16.71.213-2178
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🇨🇦 CA | 188.114.97.6
@@ -192,6 +193,7 @@ trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1669
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-2293
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-7844
+trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-7846
 trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls&sni=v2jp.k1.ssnss.live#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.152.252-5205
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-7233
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-7231
