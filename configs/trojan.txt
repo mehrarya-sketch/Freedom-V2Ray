@@ -171,7 +171,6 @@ trojan://humanity@104.26.14.137:443?security=tls#%F0%9F%8F%81RELAY-104.26.14.137
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 108.162.194.134
 trojan://humanity@144.31.182.130:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇫🇮 FI | 144.31.182.130
 trojan://humanity@144.31.182.130:443?security=tls#%F0%9F%87%AB%F0%9F%87%AEFI-144.31.182.130-0503
-trojan://humanity@144.31.205.106:443?security=tls&sni=www.volumeroot.com&type=ws&path=/assignment&Host=www.volumeroot.com#%F0%9F%87%A9%F0%9F%87%AADE-144.31.205.106-0510
 trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-162.159.91.211-0713
 trojan://humanity@165.215.250.14:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-0468
 trojan://humanity@172.67.149.60:443?security=tls#%F0%9F%8F%81RELAY-172.67.149.60-4809
