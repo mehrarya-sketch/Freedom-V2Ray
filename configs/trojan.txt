@@ -36,13 +36,13 @@ trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#%F0
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:50124?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0509
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:50125?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0512
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:50136?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0511
+trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:55016?security=tls&sni=www.lamer.com.sg#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0513
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:56007?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0501
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59014?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0508
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59019?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0498
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59021?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0510
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59023?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0499
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59024?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0500
-trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59028?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0505
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:59099?security=tls&sni=www.lamer.com.hk#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0506
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@pokemoniplc-02.waimaosass.icu:55046?security=tls&sni=www.lamer.com.hk#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0502
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@pokemoniplc-02.waimaosass.icu:56019?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0514
@@ -62,7 +62,6 @@ trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3362
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-6769
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-125.142.117.160-2475
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-221.155.27.253-2815
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.128.151-2847
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.135.193-2905
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.80.130-2886
@@ -161,6 +160,7 @@ trojan://humanity@165.215.250.14:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-165
 trojan://humanity@172.67.149.60:443?security=tls#%F0%9F%8F%81RELAY-172.67.149.60-4588
 trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-185.114.72.31-0435
 trojan://humanity@185.22.172.249:443?security=tls#%F0%9F%87%B1%F0%9F%87%BBLV-185.22.172.249-0459
+trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AADE-185.220.100.168-0431
 trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AADE-185.255.179.166-0430
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 188.114.97.6
@@ -179,7 +179,6 @@ trojan://humanity@45.87.41.18:443?security=tls&sni=www.calmlunch.com&type=ws&pat
 trojan://humanity@46.101.110.34:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-46.101.110.34-0447
 trojan://humanity@57.128.179.254:443?security=tls&sni=www.volumeroot.com&type=ws&path=/assignment&Host=www.volumeroot.com#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.179.254-0449
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org#%F0%9F%8F%81RELAY-8.47.69.0-0862
-trojan://humanity@92.42.99.143:443?security=tls&sni=www.volumeroot.com&type=ws&path=%2Fassignment&Host=www.volumeroot.com#%F0%9F%87%A9%F0%9F%87%AADE-92.42.99.143-0456
 trojan://humanity@95.85.32.57:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-95.85.32.57-0448
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.18.9.83-0434
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5270
