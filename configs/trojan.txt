@@ -10,9 +10,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&sni=r
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&sni=blog.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.29-0093
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.78-0517
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&sni=learn.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.96-0111
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.208-0511
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.29-0509
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.33-0510
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.152-0504
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&sni=resources.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.201-0503
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-0506
@@ -200,6 +197,7 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@150.230.249.88:443?security=tls&sn
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.6.184:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8US-154.17.6.184-0880
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.9.239.44:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8US-154.9.239.44-0860
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.91.9:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5JP-156.246.91.9-0821
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@157.254.18.193:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8US-157.254.18.193-0869
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@158.180.71.69:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%B0%F0%9F%87%B7KR-158.180.71.69-0969
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.199.106:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%B0%F0%9F%87%B7KR-158.247.199.106-0973
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@159.223.41.212:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#%F0%9F%87%B8%F0%9F%87%ACSG-159.223.41.212-1011
