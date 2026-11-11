@@ -14,7 +14,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls#%F0%9F
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.158-2572
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.208-0579
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&sni=resources.yourultimateprofessionalcareerhub.com&insecure=1&fp=&type=tcp#🇨🇭 CH | 208.69.78.208
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%ADCH-208.69.78.33-0232
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.152-2566
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&sni=resources.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.201-0171
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.48-2565
@@ -22,6 +21,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls#%F0%9F
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-0576
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.79-0234
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.85-0577
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.89-0574
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.93-0228
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&headerType=none&type=tcp&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#🇺🇸 US | 216.152.156.212
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%F0%9F%87%A7%F0%9F%87%B7BR-216.238.104.154-0226
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0254
@@ -115,7 +116,6 @@ trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tl
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#%F0%9F%8F%81RELAY-172.67.215.250-4832
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#%F0%9F%8F%81RELAY-104.21.91.112-4833
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#%F0%9F%8F%81RELAY-104.21.91.112-4834
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#🇨🇦 CA | 104.25.95.49
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-157.90.33.74-5995
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3303
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-4015
@@ -146,7 +146,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua
 trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@23.227.38.10:443?security=tls&sni=hkk-1-8hhh.ccc3cosmo.top&type=ws&path=/images&Host=hkk-1-8hhh.ccc3cosmo.top#%F0%9F%8F%81RELAY-23.227.38.10-0690
 trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@3456f1.cloudflare.182682.xyz:443?security=tls&sni=44-ml-1.ccc4vortex.top&type=ws&path=/images&Host=44-ml-1.ccc4vortex.top#%F0%9F%8F%81RELAY-104.17.219.20-0695
 trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@56e1f.cloudflare.182682.xyz:443?security=tls&sni=hkk-1-8hhh.ccc3cosmo.top&type=ws&path=/images&Host=hkk-1-8hhh.ccc3cosmo.top#%F0%9F%8F%81RELAY-104.17.58.78-0692
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@t2w2t2w2.bpca2026.top:443?security=tls&sni=t2w2t2w2.bpca2026.top&type=ws&path=/images&Host=t2w2t2w2.bpca2026.top#%F0%9F%87%B9%F0%9F%87%BCTW-111.246.17.193-0663
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-119.246.1.143-1144
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-7770
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-1549
@@ -328,5 +327,6 @@ trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=h
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-2646
 trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-3155
+trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.222-2758
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-4438
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=telewebion.com#%F0%9F%87%A9%F0%9F%87%AADE-157.90.33.74-7309
